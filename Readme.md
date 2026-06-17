@@ -1,4 +1,3 @@
-````md
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
 <div align="center">
@@ -163,10 +162,11 @@ A backend project built with **Node.js, Express.js, MongoDB, Mongoose, JWT** and
 
 #### Tech Used
 
-```txt
 Node.js | Express.js | MongoDB | Mongoose | JWT | Bcrypt | Nodemailer
+
 ```
-````
+
+```
 
 ---
 
