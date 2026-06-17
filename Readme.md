@@ -164,10 +164,6 @@ A backend project built with **Node.js, Express.js, MongoDB, Mongoose, JWT** and
 
 Node.js | Express.js | MongoDB | Mongoose | JWT | Bcrypt | Nodemailer
 
-```
-
-```
-
 ---
 
 <!-- ═══════════════════════════ LEARNING ROADMAP ═══════════════════════════ -->
@@ -250,4 +246,3 @@ Node.js | Express.js | MongoDB | Mongoose | JWT | Bcrypt | Nodemailer
 ### ✦ One commit closer to becoming a Backend Developer ✦
 
 </div>
-```
