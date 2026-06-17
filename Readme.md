@@ -67,20 +67,19 @@
 
 <div align="center">
 
-<table width="100%">
+<table width="520">
+  <tr>
+    <td align="center">
 
-<tr>
-<td align="center">
+### ⚡ Frontend
 
-### ⚡ Languages
-
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python&theme=dark&perline=5)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=ts,react,js,html,css,vite&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
-</tr>
+  </tr>
 
-<tr>
-<td align="center">
+  <tr>
+    <td align="center">
 
 ### 🖥️ Backend
 
@@ -89,14 +88,14 @@
 <br/>
 
 <img src="https://img.shields.io/badge/REST_API-0f172a?style=for-the-badge&logo=fastapi&logoColor=38BDF8&labelColor=020617"/>
-<img src="https://img.shields.io/badge/JWT_Auth-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=38BDF8&labelColor=020617"/>
+<img src="https://img.shields.io/badge/JWT-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=38BDF8&labelColor=020617"/>
 <img src="https://img.shields.io/badge/RBAC-0f172a?style=for-the-badge&logo=auth0&logoColor=38BDF8&labelColor=020617"/>
 
 </td>
-</tr>
+  </tr>
 
-<tr>
-<td align="center">
+  <tr>
+    <td align="center">
 
 ### 🗄️ Database
 
@@ -107,35 +106,27 @@
 <img src="https://img.shields.io/badge/Mongoose-0f172a?style=for-the-badge&logo=mongoose&logoColor=38BDF8&labelColor=020617"/>
 
 </td>
-</tr>
+  </tr>
 
-<tr>
-<td align="center">
+  <tr>
+    <td align="center">
 
-### 🎨 Frontend Basic
-
-[![Frontend](https://skillicons.dev/icons?i=react,vite&theme=dark&perline=2)](https://skillicons.dev)
-
-<br/>
-
-<img src="https://img.shields.io/badge/Basic_UI_Integration-0f172a?style=for-the-badge&logo=react&logoColor=38BDF8&labelColor=020617"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🔧 Tools
+### 🔧 Dev Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,figma&theme=dark&perline=7)](https://skillicons.dev)
 
-</td>
-</tr>
+<br/><br/>
 
+<img src="https://img.shields.io/badge/ANTIGRAVITY_AI-1b0042?style=for-the-badge&logo=googlegemini&logoColor=c084fc&labelColor=0a0020"/>
+<img src="https://img.shields.io/badge/CODING_ASSISTANT-1b0042?style=for-the-badge&logo=openai&logoColor=c084fc&labelColor=0a0020"/>
+
+</td>
+  </tr>
 </table>
 
 </div>
+
+---
 
 <!-- ═══════════════════════════ LEARNING ROADMAP ═══════════════════════════ -->
 
