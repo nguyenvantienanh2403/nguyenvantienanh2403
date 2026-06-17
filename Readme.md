@@ -115,7 +115,7 @@
 
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,figma&theme=dark&perline=7)](https://skillicons.dev)
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/ANTIGRAVITY_AI-1b0042?style=for-the-badge&logo=googlegemini&logoColor=c084fc&labelColor=0a0020"/>
 <img src="https://img.shields.io/badge/CODING_ASSISTANT-1b0042?style=for-the-badge&logo=openai&logoColor=c084fc&labelColor=0a0020"/>
@@ -149,13 +149,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nguyenvantienanh2403&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=0EA5E9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nguyenvantienanh2403&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=0EA5E9"/>
 
- 
+<br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvantienanh2403&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"/>
 
 </div>
+
+---
 
 <br/>
 
