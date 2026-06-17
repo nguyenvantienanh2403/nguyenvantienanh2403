@@ -137,35 +137,6 @@
 
 </div>
 
----
-
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-
-## 🚀 Featured Project
-
-### 🛒 Ecommerce Backend API
-
-A backend project built with **Node.js, Express.js, MongoDB, Mongoose, JWT** and clean architecture.
-
-#### Main Features
-
-- User authentication and authorization
-- Register, login, logout
-- Forgot password via email
-- JWT access token and refresh token
-- Role-based access control
-- Product management
-- Category management
-- Cart and order APIs
-- Error handling middleware
-- Clean folder structure
-
-#### Tech Used
-
-Node.js | Express.js | MongoDB | Mongoose | JWT | Bcrypt | Nodemailer
-
----
-
 <!-- ═══════════════════════════ LEARNING ROADMAP ═══════════════════════════ -->
 
 ## 📚 Currently Learning
